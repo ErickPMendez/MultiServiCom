@@ -1,0 +1,63 @@
+html {
+    font-size: 60.5%;
+    font-family: 'Bebas Neue', cursive;
+}
+body {
+    background-color: #f5f3f3
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    font-size: 3rem;
+    text-align: center;
+    color: white;
+}
+
+
+.barra {
+    padding: 20px;
+    background: linear-gradient(to right, #000000 0%,#01275a 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#741d51', endColorstr='#e44e52',GradientType=1 ); /* IE6-9 */
+}
+
+.logo{
+    width: 80%;
+    padding-left: 120%;
+}
+
+.barra p {
+    margin:0;
+    color: rgb(255, 255, 255);
+    font-size: 130%;
+}
+
+.Informacion{
+    padding: 4em;
+    text-align: justify;
+    font-size: 20px;
+}
+
+.info2{
+    text-align: center;
+}
+
+#Titulos{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+
+.enlace{
+    color: white;
+    text-decoration: none;
+}
+
+.row{
+    padding-left: 30%;
+}
+
+.imagenes{
+    width: 30%;
+    padding-left: 20%;
+}
